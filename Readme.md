@@ -1,6 +1,6 @@
-# Incident Management API
+# HumanChain AI Safety Incident Log API
+A simple RESTful API built with Flask for logging and managing AI safety incidents. This API allows you to create, retrieve, and delete incident reports related to AI safety issues such as model bias, data breaches, and unethical AI decisions.
 
-A simple RESTful API built with Flask for tracking and managing incidents. This API allows you to create, retrieve, and delete incident reports with different severity levels.
 
 ## Technology Stack
 
